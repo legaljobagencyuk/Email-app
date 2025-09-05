@@ -9,7 +9,7 @@ export default async function handler(req, res) {
             service: 'gmail',
             auth: {
                 user: legaljobagenciesuk@gmail.com,
-                pass: Hhlbbcnofnsmaspscapc,
+                pass: jdeq dofj rhas gfbx,
             },
         });
 
